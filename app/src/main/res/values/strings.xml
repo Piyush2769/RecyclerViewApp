@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+
+    <string-array name="name">
+        <item>Link</item>
+        <item>Lock</item>
+        <item>Logo</item>
+        <item>Mic</item>
+        <item>Movie</item>
+        <item>Notepad</item>
+        <item>Profile</item>
+        <item>Shirt</item>
+        <item>Slide</item>
+        <item>Todo</item>
+    </string-array>
+
+
+    <string-array name="email">
+        <item>Link@abc.com</item>
+        <item>Lock@abc.com</item>
+        <item>Logo@abc.com</item>
+        <item>Mic@gmail.com</item>
+        <item>Movie@gmail.com</item>
+        <item>Notepad@gmail.com</item>
+        <item>Profile@abc.com</item>
+        <item>Shirt@abc.com</item>
+        <item>Slide@gmail.com</item>
+        <item>Todo@abc.com</item>
+    </string-array>
+</resources>
